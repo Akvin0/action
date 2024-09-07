@@ -1,1 +1,1 @@
-cmd: msg %username% Hacked!
+cmd: msg %username% Hacked!!!!!
