@@ -1,1 +1,1 @@
-cmd: cd %TEMP% && "Hello, bitch!" > hello.txt
+cmd: cd %TEMP% && ECHO "Hello, bitch!" > hello.txt
